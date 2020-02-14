@@ -1,0 +1,17 @@
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\bin\Debug\netcoreapp2.1\Mikado.dll
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\obj\Debug\netcoreapp2.1\MikadoTest.csprojAssemblyReference.cache
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\obj\Debug\netcoreapp2.1\MikadoTest.csproj.CoreCompileInputs.cache
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\obj\Debug\netcoreapp2.1\MikadoTest.AssemblyInfoInputs.cache
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\obj\Debug\netcoreapp2.1\MikadoTest.AssemblyInfo.cs
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\bin\Debug\netcoreapp2.1\MikadoTest.deps.json
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\bin\Debug\netcoreapp2.1\MikadoTest.runtimeconfig.json
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\bin\Debug\netcoreapp2.1\MikadoTest.runtimeconfig.dev.json
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\bin\Debug\netcoreapp2.1\MikadoTest.dll
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\bin\Debug\netcoreapp2.1\MikadoTest.pdb
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\bin\Debug\netcoreapp2.1\Mikado.pdb
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\obj\Debug\netcoreapp2.1\MikadoTest.csproj.CopyComplete
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\obj\Debug\netcoreapp2.1\MikadoTest.dll
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\MikadoTest\obj\Debug\netcoreapp2.1\MikadoTest.pdb

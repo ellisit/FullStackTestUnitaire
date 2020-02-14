@@ -1,0 +1,11 @@
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\Mikado\bin\Debug\netcoreapp2.1\Mikado.deps.json
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\Mikado\bin\Debug\netcoreapp2.1\Mikado.runtimeconfig.json
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\Mikado\bin\Debug\netcoreapp2.1\Mikado.runtimeconfig.dev.json
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\Mikado\bin\Debug\netcoreapp2.1\Mikado.dll
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\Mikado\obj\Debug\netcoreapp2.1\Mikado.csprojAssemblyReference.cache
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\Mikado\obj\Debug\netcoreapp2.1\Mikado.csproj.CoreCompileInputs.cache
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\Mikado\obj\Debug\netcoreapp2.1\Mikado.AssemblyInfoInputs.cache
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\Mikado\obj\Debug\netcoreapp2.1\Mikado.AssemblyInfo.cs
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\Mikado\bin\Debug\netcoreapp2.1\Mikado.pdb
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\Mikado\obj\Debug\netcoreapp2.1\Mikado.dll
+D:\Ynov\m2\fullstack_cours\test unitaire\tp\FullStackTestUnitaire\Mikado\Mikado\obj\Debug\netcoreapp2.1\Mikado.pdb
