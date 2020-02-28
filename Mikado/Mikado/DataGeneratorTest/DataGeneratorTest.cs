@@ -18,9 +18,9 @@ namespace Mikado.DataGeneratorTest
             throw new NotImplementedException();
         }
 
-        public static IEnumerable<object[]> GetEmptyListOfMusic()
+        public static IEnumerable<object> GetEmptyListOfMusic()
         {
-            yield return new Music[0];
+             return new List<Media>();
         }
 
         IEnumerator<object[]> IEnumerable<object[]>.GetEnumerator()
