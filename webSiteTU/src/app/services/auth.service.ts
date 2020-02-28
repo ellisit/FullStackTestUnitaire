@@ -8,6 +8,7 @@ export class AuthService {
   constructor(private http: HttpClient) { }
 
   login( email: string, password: string){
-    return this.http.get(`${this.server}users/`);
+    //return this.http.get(`${this.server}users/`);
+    return 'Hello'
   }
 }

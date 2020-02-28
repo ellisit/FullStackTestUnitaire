@@ -30,4 +30,14 @@ describe('LoginComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+
+  // si on part du principe que tout marche
+
+  it(' should retrun string msg on empty email', () => {
+    component.loginForm.setValue({email: '', password:'toto'});
+    let res = component.getEmailErrorMessage();
+    expect(res).toBe('You must enter a value');
+  })
+
+
 });
