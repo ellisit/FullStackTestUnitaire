@@ -1,0 +1,24 @@
+<mat-card>
+    <mat-card-header>
+      <mat-card-title>Authentification</mat-card-title>
+  </mat-card-header>
+  <mat-card-content [formGroup]="formLogin" class="grid-important grid-column-gap-50">
+      <mat-form-field>
+          <input matInput placeholder="Identifiant" formControlName="identifiant">
+          <mat-error *ngIf="identifiant.invalid">Veuillez saisir un identifiant</mat-error>
+      </mat-form-field>
+      <mat-form-field *ngIf="!visibility">
+          <input matInput type="password" placeholder="Mot de passe" formControlName="mdp">
+          <mat-icon matSuffix (click)="changeVisibility()">remove_red_eye</mat-icon>
+          <mat-error *ngIf="mdp.invalid">Veuillez saisir le mot de passe</mat-error>
+      </mat-form-field>
+      <mat-form-field *ngIf="visibility">
+          <input matInput placeholder="Mot de passe" formControlName="mdp">
+          <mat-icon matSuffix (click)="changeVisibility()">remove_red_eye</mat-icon>
+          <mat-error *ngIf="mdp.invalid">Veuillez saisir le mot de passe</mat-error>
+      </mat-form-field>
+  </mat-card-content>
+  <mat-card-actions class="flex-important justify-end">
+      <button mat-button (click)="verifUser()" [disabled]="formLogin.invalid">Se connecter</button>
+  </mat-card-actions>
+</mat-card>
